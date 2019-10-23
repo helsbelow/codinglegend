@@ -1,4 +1,22 @@
+*{background-image:url(../image.jpeg)}
 body{
     color: #1fb6e4;
 font-family: fantasy;
+background-image:'../image.jpeg'
 }
+h1{color:#e41fd4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{background-color: aliceblue;
+    background-image: linear-gradient(to right,blue 0%,red 100%),url('../image.jpeg')
+}
+ul{color:#e7f2f3;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding-left:250px;
+
+}
+
+
+
+
